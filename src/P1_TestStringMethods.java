@@ -27,26 +27,26 @@
 /*
  Were you correct? Explain if you were not (what did you learn?)
  
- 1.
- 2.
- 3. 
- 4.
+ 1. Yes
+ 2. Yes
+ 3. Yes
+ 4. Partially. It gave the index of the first and only time it saw the character
  
- 5.
- 6.
- 7.
- 8.
+ 5. Yes
+ 6. Yes
+ 7. Yes
+ 8. Yes
  
- 9.
- 10.
- 11.
+ 9. Yes
+ 10. To a point. I just didn't put the exact string for my prediction
+ 11. Yes
  
  */
 public class P1_TestStringMethods {
 	public static void main(String[] args) {
 		String str1 = "Frodo Baggins";
 		String str2 = "Gandalf the GRAY";
-		System.out.println("REPLACE WITH YOUR EXPRESSION");
+		System.out.println("str1".replace("r",  "range"));
 	}
 
 }
